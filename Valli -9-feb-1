@@ -1,0 +1,10 @@
+#biggest of two numbers:
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+print(max(a,b),"is greater")
+
+
+output-
+enter the value of a:20
+enter the value of b:30
+b is greater
